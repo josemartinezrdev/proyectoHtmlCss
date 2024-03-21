@@ -16,8 +16,6 @@ body {
   background-color: var(--first);
   margin: 0px;
   padding: 0px;
-  border-left: solid 2px var(--border-section);
-  border-right: solid 2px var(--border-section);
   border-top: solid 2px var(--border-section);
 }
 
